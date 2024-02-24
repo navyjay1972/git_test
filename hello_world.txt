@@ -1,0 +1,2 @@
+Hello, world!
+This is the first time working with git and GitHub in real world.
